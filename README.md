@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Texas A&M Computer Engineering
-Class of 2028
